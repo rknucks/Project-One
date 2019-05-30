@@ -10,4 +10,4 @@ The user can search by location, band or group name, or type of event
 
 The link to actually see the working application is https://rknucks.github.io/Project-One/
 
-![](assets/images/capture1.png)
+![](images/capture1.png)
